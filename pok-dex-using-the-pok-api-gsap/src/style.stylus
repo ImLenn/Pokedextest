@@ -179,7 +179,7 @@ body
   justify-content center
   min-height 100vh
   flex-direction column
-  background hsl(205, 100%, 25%)
+  background hsl(293.79, 67.44%, 8.43%)
 
 
 button
